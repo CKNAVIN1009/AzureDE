@@ -1,0 +1,126 @@
+Cloud computing:
+----------------
+More hands ON, need basis theoretical.
+
+Unext portal-->PDF and others.
+
+Cloud computing:
+
+History of cloud computing:
+--------------------------
+In year of 1990s--->We used to use our landline---->Mobile x
+2000s-------------->Mobile(keypad based like nokia ....)
+2010s==============>Multimedia(storage micro SD card--)
+                    Smartphone(1 tb/16gb/128 gb....2 tbs)
+
+2026
+
+Cloud Computing
+---------------
+Cloud providers:  Google, Amazon, MS, digital ocean, zscaler, Mega, Alibaba..
+
+
+In year of 2000s, we dnt have cloud service.
+
+
+100 gbs of coding data is with you...where u will store this data..
+
+Harddisk...not considering safe.
+
+Cloud:
+
+AWS--->2006(formally)-->amazon web services
+GCP--->2008--->Google cloud computing
+Azure--->2009--->MS
+
+On premises
+cloud premises
+AWS:  70%
+
+Current situation:
+AWS: 50-55%
+Azure:  40%(more security, mostly 70-80% of banking industry is with Azure)
+GCP:  5%
+Others:  5%
+
+Benefits of cloud computing:
+1.  Less stress for platform related stuffs.
+2.  Storage(varied). How much u will use that much u need to pay. Storage can be scalable.
+3.  Security.(Multifactorial authentication).
+4.  Server(autoscale)
+
+Flipkart--->active customer 1 million-->1000 servers
+Big billion day flipkart--->10 million--->10000 servers.
+
+5.  cost optimization(pay as you go).
+6.  Less maintenance(less cost)
+7.  Disaster recovery(backup).
+8.  Availability(24/7).
+9.  Authentication/authorization(Right person can access the right things).
+etc.
+
+
+Drawback of cloud computing:
+Internet dependency.
+Pricing model
+
+Azure:
+Az-104 admins
+Az-400 devops
+Az-900  fundamental
+
+
+Cloud models:
+1.  deployment model.
+2.  service model.
+
+Service model:
+1.  iaas(infrastructure as service)  VIRTUAL MACHINE
+2.  paas(platform as service) App service
+3.  saas(software as a service)
+
+D   Data
+A   application
+R   runtime
+O   opesrating system
+
+V   virtual machin
+C   Computing
+
+Nhi to  or else  netwrokmig
+
+Sudharo change urself storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
